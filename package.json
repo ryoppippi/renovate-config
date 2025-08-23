@@ -10,6 +10,6 @@
     "lint": "renovate-config-validator --strict ./default.json ./no-group.json"
   },
   "dependencies": {
-    "renovate": "^38.72.0"
+    "renovate": "^41.82.1"
   }
 }
