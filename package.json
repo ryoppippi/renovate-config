@@ -1,0 +1,11 @@
+{
+  "name": "@ryoppippi/renovate-config",
+  "type": "module",
+  "private": true,
+  "files": [
+    "default.json"
+  ],
+  "dependencies": {
+    "renovate": "^38.72.0"
+  }
+}
