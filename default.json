@@ -25,5 +25,5 @@
   "dependencyDashboard": false,
   "automerge": true,
   "branchConcurrentLimit": 0,
-  "stabilityDays": 3
+  "minimumReleaseAge": "3 days"
 }
