@@ -3,10 +3,11 @@
   "type": "module",
   "private": true,
   "files": [
-    "default.json"
+    "default.json",
+    "no-group.json"
   ],
   "scripts": {
-    "lint": "renovate-config-validator"
+    "lint": "renovate-config-validator --strict ./default.json ./no-group.json"
   },
   "dependencies": {
     "renovate": "^38.72.0"

@@ -8,9 +8,12 @@ Add the following to your `renovate.json` file:
 
 ```jsonc
 {
-  "extends": ["github>ryoppippi/renovate-config"],
+    "extends": ["github>ryoppippi/renovate-config"],
 
-  // override any settings here
-  "automerge": true
+    // or
+    "extends": ["gitlab>ryoppippi/renovate-config:no-group"],
+
+    // override any settings here
+    "automerge": true
 }
 ```
