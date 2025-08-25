@@ -4,7 +4,7 @@
     "": {
       "name": "renovate-config",
       "dependencies": {
-        "renovate": "^41.82.1",
+        "renovate": "^41.82.3",
       },
     },
   },
